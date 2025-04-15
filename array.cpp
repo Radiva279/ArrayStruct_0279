@@ -9,3 +9,7 @@ int skor[4]={9,13,20,11};
 
 //deklaasi array dengan ukuran, tanpa nilai awal
 string nama[3];
+
+int main(){
+    cout << "Isi data skor yang ketiga = " << skor[2] << endl;
+}
